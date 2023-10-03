@@ -1,0 +1,6 @@
+version: '3.7'
+
+services:
+  helloworld:
+    image: acr-helloworld:v1.0
+    restart: always
